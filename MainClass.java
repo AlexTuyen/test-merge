@@ -10,5 +10,10 @@ public class MainClass {
 		System.out.println("Abcd");
 		xyz
 	}
+public void test() {
+abcd
+abcd
+abcd
+}
 
 }
