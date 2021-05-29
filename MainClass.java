@@ -8,5 +8,8 @@ public class MainClass {
 		// TODO Auto-generated method stub
 		System.out.println("Abcd");
 	}
-
+public void test() {
+tuyenbn
+tuyenbn
+}
 }
